@@ -10,11 +10,17 @@ namespace Git_demo
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine(addtwonumbers(10,20));
+            
         }
         #region Add two numbers
+        public static int addtwonumbers(int a, int b)
+        {
+            return a + b;
+        }
         #endregion
         #region Add two products
+       
         #endregion
     }
 }
