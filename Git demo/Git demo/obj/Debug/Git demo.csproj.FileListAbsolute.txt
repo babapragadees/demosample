@@ -1,0 +1,6 @@
+C:\Users\USER\Desktop\git example\samplev2\Git demo\Git demo\bin\Debug\Git demo.exe.config
+C:\Users\USER\Desktop\git example\samplev2\Git demo\Git demo\bin\Debug\Git demo.exe
+C:\Users\USER\Desktop\git example\samplev2\Git demo\Git demo\bin\Debug\Git demo.pdb
+C:\Users\USER\Desktop\git example\samplev2\Git demo\Git demo\obj\Debug\Git demo.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\git example\samplev2\Git demo\Git demo\obj\Debug\Git demo.exe
+C:\Users\USER\Desktop\git example\samplev2\Git demo\Git demo\obj\Debug\Git demo.pdb
