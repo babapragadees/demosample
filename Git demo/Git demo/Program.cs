@@ -11,6 +11,7 @@ namespace Git_demo
         static void Main(string[] args)
         {
             Console.WriteLine(addtwonumbers(10,20));
+            Console.WriteLine(addtwoproduct(10,100));
             
         }
         #region Add two numbers
@@ -20,7 +21,10 @@ namespace Git_demo
         }
         #endregion
         #region Add two products
-       
-        #endregion
+        public static int addtwoproduct(int a, int b)
+        {
+            return a * b;
+        }
+       #endregion
     }
 }
